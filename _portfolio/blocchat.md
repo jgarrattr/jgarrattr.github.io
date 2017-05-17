@@ -2,9 +2,11 @@
 layout: post
 title: Bloc Chat
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
+thumbnail-path: "https://gyazo.com/55ac42a8e47dfdcf77206d3816ae3137"
 short-description: Bloc Chat allows for easy group communication!
 
+{:.center}
+![]({{ strongfierce.com }}/img/blocflix.png)
 ---
 In a world plagued with so many group chats that you are forced to mute notifications on ninety percent of them, Bloc Chat aims to give you that AIM user experience and allow a seperate web application so you're not forced to see that notification number pile up as your friends send you countless vaguely related articles that you actually don't care about. 
 
