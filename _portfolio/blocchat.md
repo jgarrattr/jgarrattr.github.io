@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloc Chat
-feature-img: "img/Bloc_Chat.png"
-thumbnail-path: "https://i.gyazo.com/55ac42a8e47dfdcf77206d3816ae3137.png"
+feature-img: 
+thumbnail-path: "img/Bloc_Chat.png"
 short-description: Bloc Chat allows for easy group communication!
 
 ---
